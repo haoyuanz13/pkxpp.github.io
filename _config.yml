@@ -13,7 +13,7 @@ description: Pages's Ideas & Blogs
 github_username: haoyuanz13
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/haoyuanz13/pkxpp.github.io/
+viewsourceroot: https://github.com/haoyuanz13/zhanghaoyuan.github.io/
 # this is the url root of the create page link on the footer page.
 # newsourceroot: http://pkxpp.github.io
 newsourceroot: http://zhanghaoyuan.github.io
