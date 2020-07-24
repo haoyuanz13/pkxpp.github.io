@@ -1,6 +1,6 @@
 # Site settings
-title: Page's Personal Website
-email: pkxpp@126.com
+title: zhanghaoyuan for test
+email: haoyuanz0827@gmail.com
 description: Pages's Ideas & Blogs
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -10,19 +10,21 @@ description: Pages's Ideas & Blogs
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username: pkxpp
+github_username: haoyuanz13
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/pkxpp/pkxpp.github.io/
+viewsourceroot: https://github.com/haoyuanz13/pkxpp.github.io/
 # this is the url root of the create page link on the footer page.
-newsourceroot: http://pkxpp.github.io
+# newsourceroot: http://pkxpp.github.io
+newsourceroot: http://zhanghaoyuan.github.io
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 # duoshuo_shortname: whu-page
 # duoshuo_url: "http://pkxpp.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: page
-disqus_url: "http://pkxpp.github.io"
+# disqus_url: "http://pkxpp.github.io"
+disqus_url: "http://zhanghaoyuan.github.io"
 #########################################
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
